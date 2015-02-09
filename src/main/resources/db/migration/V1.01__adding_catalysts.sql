@@ -1,0 +1,10 @@
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('1', 'Millerite', 'The Motherlode', '3000', '1000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('2', 'Rhodochrosite', 'The Motherlode',  '8000', '2000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('3', 'Cobolite', 'The Motherlode',  '17000', '3000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('4', 'Pervoskite', 'The Motherlode',  '30000', '4000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('5', 'Uraninite', 'The Motherlode',  '45000', '5000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('6', 'Mnar Stone', 'The Motherlode',  '60000', '6000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('7', 'Scarletite', 'The Motherlode',  '100000', '7000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('8', 'Adamantite', 'R&D Depot',  '220000', '8000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('9', 'Dark Matter', 'R&D Depot',  '840000', '9000');
+INSERT INTO `ff13`.`catalyst` (`catalyst_id`, `catalyst_name`, `catalyst_shop`, `catalyst_buy_price`, `catalyst_sell_price`) VALUES ('10', 'Trapezohedron', 'R&D Depot',  '2000000', '10000');
